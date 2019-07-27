@@ -1,4 +1,4 @@
 # javatutorial
 Java Tutorial
 
-Tutorial about Java
+Tutorial about Javas

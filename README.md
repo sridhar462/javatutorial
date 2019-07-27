@@ -1,3 +1,3 @@
 # javatutorial
 Java Tutorial
-Tutorial abput Java
+Tutorial about Java
